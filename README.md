@@ -39,7 +39,7 @@ What is considered architecturally significant will change over time as both the
 - Changes the general structures of the system
 - Forces developers to change their development approach 
 
-**Decisions do not have to be empirically correct, nor must they stand the test of time**. All decisions are the best we could make given what we knew at the time, our skills & abilities, the resources available, and the situation at hand. We should embrace this in our ADRs instead of trying to prove that technically our decision to use technology A over B is the best when in truth we do not truly know. It is better to say that technology A seemed easier to learn, or was something members of the team where keen to learn.
+**Decisions do not have to be empirically correct, nor must they stand the test of time**. All decisions are the best we could make given what we knew at the time, our skills & abilities, the resources available, and the situation at hand. We should embrace this in our ADRs instead of trying to prove that technically our decision to use technology A over B is the best when in truth we do not truly know. It is better to say that technology A seemed easier to learn, or was something members of the team are keen to learn.
 
 ## Further reading
 
