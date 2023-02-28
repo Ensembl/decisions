@@ -8,7 +8,7 @@ Date: 2018-09-05
 
 ## Status
 
-Accepted
+Deprecated
 
 ## Context
 

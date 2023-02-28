@@ -3,6 +3,22 @@ A central place for decisions for the new Ensembl project
 
 - [doc/adr](doc/adr)
 
+# What is covered by this repo?
+
+```mermaid
+graph TD
+    client[ensembl-client]  --> 
+    glue[ensembl-genome-browser] -->
+    browser[ensembl-dauphin-style-compiler] 
+    click client "https://github.com/Ensembl/ensembl-client"
+    click glue "https://github.com/Ensembl/ensembl-genome-browser"
+    click browser "https://github.com/Ensembl/ensembl-dauphin-style-compiler"
+```
+
+- https://github.com/Ensembl/ensembl-client
+- https://github.com/Ensembl/ensembl-genome-browser
+- https://github.com/Ensembl/ensembl-dauphin-style-compiler
+
 # ADR - Architectural Decision Record  
 
 A collection of records for "architecturally significant" decisions: those that affect structure, non-functional characteristics, dependencies, interfaces, or construction techniques. 
@@ -44,7 +60,7 @@ What is considered architecturally significant will change over time as both the
 ## Further reading
 
 - Where ADRs got started - https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions.html 
-- https://github.com/joelparkerhenderson/architecture-decision-record
+- A good resource on all things ADR - https://github.com/joelparkerhenderson/architecture-decision-record
 
 # Other decisions
 
