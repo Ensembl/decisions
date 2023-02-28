@@ -20,12 +20,14 @@ jobs:
     - name: build
       run: |
         adr-viewer
+        mkdir public
+        mv index.html public
     - name: Setup Pages
       uses: actions/configure-pages@v3
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v1
       with:
-        path: 'index.html'
+        path: 'public'
     - name: Deploy to GitHub Pages
       id: deployment
       uses: actions/deploy-pages@v1
