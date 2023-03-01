@@ -1,7 +1,10 @@
 # Decisions
 A central place for decisions for the new Ensembl project
 
-- [doc/adr](doc/adr)
+| Type | Path               | Viewer                               |
+|------|--------------------|--------------------------------------|
+| ADR  | [doc/adr](doc/adr) | https://ensembl.github.io/decisions/ |
+|      |                    |                                      |
 
 # What is covered by this repo?
 
