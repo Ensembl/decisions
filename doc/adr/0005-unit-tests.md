@@ -8,9 +8,9 @@ Date: 2018-08-30; Last update date: 2019-04-09
 
 ## Status
 
-Superseded by [0021-react-testing-library](0021-react-testing-library.md).
+Superseded by [0021-react-testing-library](doc/adr/0021-react-testing-library.md).
 
-See [0021-react-testing-library](0021-react-testing-library.md) for updated discussion of choosing a library for unit-testing React components.
+See [0021-react-testing-library](doc/adr/0021-react-testing-library.md) for updated discussion of choosing a library for unit-testing React components.
 
 ## Context
 
